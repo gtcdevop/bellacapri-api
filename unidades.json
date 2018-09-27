@@ -1,0 +1,398 @@
+[  
+   {  
+      "Codigo":16,
+      "Nome":"Rcc - Rio Claro",
+      "Sigla":"RCC",
+      "FotoFileName":"RCC1",
+      "TaxaEntrega":0.0,
+      "QuantidadeAdicionais":1,
+      "Foto":"https://comprepizza.bellacapri.com.br/Content/customize/bella_capri/img/lojas/RCC1.jpg",
+      "Endereco":{  
+         "Id":0,
+         "IdTipoEndereco":null,
+         "EnderecoPrincipal":null,
+         "Cep":"13500300",
+         "Uf":"SP",
+         "Numero":".",
+         "Complemento":"X",
+         "Log":"Rua Via Da Saudade, 38",
+         "Bai":{  
+            "c":23434,
+            "d":"Centro"
+         },
+         "Cid":{  
+            "c":9566,
+            "d":"Rio Claro"
+         }
+      },
+      "ExibirTempoMedio":"NAO",
+      "LojaAberta":"NAO",
+      "TempoMedio":null,
+      "HorarioAtendimentoInicial":"18:00",
+      "HorarioAtendimentoFinal":"22:45",
+      "Ordem":1,
+      "PagtoOnline":"SIM",
+      "LojaDrive":"NAO"
+   },
+   {  },
+   {  },
+   {  },
+   {  },
+   {  },
+   {  },
+   {  },
+   {  },
+   {  },
+   {  },
+   {  },
+   {  
+      "Codigo":116,
+      "Nome":"Vtc - Votuporanga",
+      "Sigla":"VTC",
+      "FotoFileName":"VTC1",
+      "TaxaEntrega":0.0,
+      "QuantidadeAdicionais":1,
+      "Foto":"https://comprepizza.bellacapri.com.br/Content/customize/bella_capri/img/lojas/VTC1.jpg",
+      "Endereco":{  
+         "Id":0,
+         "IdTipoEndereco":null,
+         "EnderecoPrincipal":null,
+         "Cep":"15505189",
+         "Uf":"SP",
+         "Numero":".",
+         "Complemento":null,
+         "Log":"Rua Tocantins, 4072",
+         "Bai":{  
+            "c":28984,
+            "d":"Santa Eliza"
+         },
+         "Cid":{  
+            "c":9789,
+            "d":"Votuporanga"
+         }
+      },
+      "ExibirTempoMedio":"NAO",
+      "LojaAberta":"NAO",
+      "TempoMedio":null,
+      "HorarioAtendimentoInicial":"18:00",
+      "HorarioAtendimentoFinal":"23:00",
+      "Ordem":13,
+      "PagtoOnline":"SIM",
+      "LojaDrive":"SIM"
+   },
+   {  
+      "Codigo":12,
+      "Nome":"Rbj - Ribeirão João Fiusa",
+      "Sigla":"RBJ",
+      "FotoFileName":"RBJ1",
+      "TaxaEntrega":0.0,
+      "QuantidadeAdicionais":1,
+      "Foto":"https://comprepizza.bellacapri.com.br/Content/customize/bella_capri/img/lojas/RBJ1.jpg",
+      "Endereco":{  
+         "Id":0,
+         "IdTipoEndereco":null,
+         "EnderecoPrincipal":null,
+         "Cep":"14025310",
+         "Uf":"SP",
+         "Numero":".",
+         "Complemento":null,
+         "Log":"Av. Professor Joao Fiusa, 535",
+         "Bai":{  
+            "c":23275,
+            "d":"Alto Da Boa Vista"
+         },
+         "Cid":{  
+            "c":9560,
+            "d":"Ribeirão Preto"
+         }
+      },
+      "ExibirTempoMedio":"NAO",
+      "LojaAberta":"NAO",
+      "TempoMedio":null,
+      "HorarioAtendimentoInicial":"18:00",
+      "HorarioAtendimentoFinal":"23:00",
+      "Ordem":14,
+      "PagtoOnline":"SIM",
+      "LojaDrive":"NAO"
+   },
+   {  
+      "Codigo":123,
+      "Nome":"Rbt - Ribeirão Treze De Maio",
+      "Sigla":"RBT",
+      "FotoFileName":"RBT1",
+      "TaxaEntrega":0.0,
+      "QuantidadeAdicionais":1,
+      "Foto":"https://comprepizza.bellacapri.com.br/Content/customize/bella_capri/img/lojas/RBT1.jpg",
+      "Endereco":{  
+         "Id":0,
+         "IdTipoEndereco":null,
+         "EnderecoPrincipal":null,
+         "Cep":"14090260",
+         "Uf":"SP",
+         "Numero":".",
+         "Complemento":"932",
+         "Log":"Avenida Treze De Maio",
+         "Bai":{  
+            "c":23355,
+            "d":"Jardim Paulista"
+         },
+         "Cid":{  
+            "c":9560,
+            "d":"Ribeirão Preto"
+         }
+      },
+      "ExibirTempoMedio":"NAO",
+      "LojaAberta":"NAO",
+      "TempoMedio":null,
+      "HorarioAtendimentoInicial":"18:00",
+      "HorarioAtendimentoFinal":"23:00",
+      "Ordem":15,
+      "PagtoOnline":"SIM",
+      "LojaDrive":"SIM"
+   },
+   {  
+      "Codigo":119,
+      "Nome":"Arh - Araraquara",
+      "Sigla":"ARH",
+      "FotoFileName":"ARH1",
+      "TaxaEntrega":0.0,
+      "QuantidadeAdicionais":1,
+      "Foto":"https://comprepizza.bellacapri.com.br/Content/customize/bella_capri/img/lojas/ARH1.jpg",
+      "Endereco":{  
+         "Id":0,
+         "IdTipoEndereco":null,
+         "EnderecoPrincipal":null,
+         "Cep":"14802500",
+         "Uf":"SP",
+         "Numero":".",
+         "Complemento":null,
+         "Log":"Rua Napoleao Selmi-dei, 694g",
+         "Bai":{  
+            "c":14761,
+            "d":"Vila Harmonia"
+         },
+         "Cid":{  
+            "c":8912,
+            "d":"Araraquara"
+         }
+      },
+      "ExibirTempoMedio":"NAO",
+      "LojaAberta":"NAO",
+      "TempoMedio":null,
+      "HorarioAtendimentoInicial":"18:00",
+      "HorarioAtendimentoFinal":"23:00",
+      "Ordem":16,
+      "PagtoOnline":"SIM",
+      "LojaDrive":"SIM"
+   },
+   {  
+      "Codigo":128,
+      "Nome":"Rpd - Rio Preto Damha",
+      "Sigla":"RPD",
+      "FotoFileName":"RPD1",
+      "TaxaEntrega":0.0,
+      "QuantidadeAdicionais":1,
+      "Foto":"https://comprepizza.bellacapri.com.br/Content/customize/bella_capri/img/lojas/RPD1.jpg",
+      "Endereco":{  
+         "Id":0,
+         "IdTipoEndereco":null,
+         "EnderecoPrincipal":null,
+         "Cep":"15061768",
+         "Uf":"SP",
+         "Numero":".",
+         "Complemento":null,
+         "Log":"Av Miguel Damha, Sn, Loja 05",
+         "Bai":{  
+            "c":50546,
+            "d":"Parque Residencial Damha V"
+         },
+         "Cid":{  
+            "c":9659,
+            "d":"São José Do Rio Preto"
+         }
+      },
+      "ExibirTempoMedio":"NAO",
+      "LojaAberta":"NAO",
+      "TempoMedio":null,
+      "HorarioAtendimentoInicial":"18:00",
+      "HorarioAtendimentoFinal":"23:00",
+      "Ordem":17,
+      "PagtoOnline":"NAO",
+      "LojaDrive":"SIM"
+   },
+   {  
+      "Codigo":129,
+      "Nome":"Ctq - Catanduva Quinze",
+      "Sigla":"CTQ",
+      "FotoFileName":"CTQ1",
+      "TaxaEntrega":0.0,
+      "QuantidadeAdicionais":1,
+      "Foto":"https://comprepizza.bellacapri.com.br/Content/customize/bella_capri/img/lojas/CTQ1.jpg",
+      "Endereco":{  
+         "Id":0,
+         "IdTipoEndereco":null,
+         "EnderecoPrincipal":null,
+         "Cep":"15806060",
+         "Uf":"SP",
+         "Numero":".",
+         "Complemento":null,
+         "Log":"Rua Quinze De Novembro, 820",
+         "Bai":{  
+            "c":17227,
+            "d":"São Francisco"
+         },
+         "Cid":{  
+            "c":9052,
+            "d":"Catanduva"
+         }
+      },
+      "ExibirTempoMedio":"NAO",
+      "LojaAberta":"NAO",
+      "TempoMedio":null,
+      "HorarioAtendimentoInicial":"18:00",
+      "HorarioAtendimentoFinal":"23:00",
+      "Ordem":18,
+      "PagtoOnline":"NAO",
+      "LojaDrive":"SIM"
+   },
+   {  
+      "Codigo":137,
+      "Nome":"Brl - Barretos",
+      "Sigla":"BRL",
+      "FotoFileName":"BRL1",
+      "TaxaEntrega":0.0,
+      "QuantidadeAdicionais":1,
+      "Foto":"https://comprepizza.bellacapri.com.br/Content/customize/bella_capri/img/lojas/BRL1.jpg",
+      "Endereco":{  
+         "Id":0,
+         "IdTipoEndereco":null,
+         "EnderecoPrincipal":null,
+         "Cep":"14783189",
+         "Uf":"SP",
+         "Numero":".",
+         "Complemento":null,
+         "Log":"Rua Colombia, 159",
+         "Bai":{  
+            "c":15241,
+            "d":"América"
+         },
+         "Cid":{  
+            "c":8954,
+            "d":"Barretos"
+         }
+      },
+      "ExibirTempoMedio":"NAO",
+      "LojaAberta":"NAO",
+      "TempoMedio":null,
+      "HorarioAtendimentoInicial":"18:00",
+      "HorarioAtendimentoFinal":"23:00",
+      "Ordem":19,
+      "PagtoOnline":"NAO",
+      "LojaDrive":"SIM"
+   },
+   {  
+      "Codigo":141,
+      "Nome":"Rbv - Ribeirão Vargas",
+      "Sigla":"RBV",
+      "FotoFileName":"RBV3",
+      "TaxaEntrega":0.0,
+      "QuantidadeAdicionais":1,
+      "Foto":"https://comprepizza.bellacapri.com.br/Content/customize/bella_capri/img/lojas/RBV3.jpg",
+      "Endereco":{  
+         "Id":0,
+         "IdTipoEndereco":null,
+         "EnderecoPrincipal":null,
+         "Cep":"14020273",
+         "Uf":"SP",
+         "Numero":".",
+         "Complemento":"SALA 3",
+         "Log":"Av Presidente Vargas, 1321",
+         "Bai":{  
+            "c":23363,
+            "d":"Jardim São Luiz"
+         },
+         "Cid":{  
+            "c":9560,
+            "d":"Ribeirão Preto"
+         }
+      },
+      "ExibirTempoMedio":"NAO",
+      "LojaAberta":"NAO",
+      "TempoMedio":null,
+      "HorarioAtendimentoInicial":"18:00",
+      "HorarioAtendimentoFinal":"23:00",
+      "Ordem":20,
+      "PagtoOnline":"NAO",
+      "LojaDrive":"SIM"
+   },
+   {  
+      "Codigo":146,
+      "Nome":"Fer - Fernandopolis",
+      "Sigla":"FER",
+      "FotoFileName":"FER1",
+      "TaxaEntrega":0.0,
+      "QuantidadeAdicionais":1,
+      "Foto":"https://comprepizza.bellacapri.com.br/Content/customize/bella_capri/img/lojas/FER1.jpg",
+      "Endereco":{  
+         "Id":0,
+         "IdTipoEndereco":null,
+         "EnderecoPrincipal":null,
+         "Cep":"15600000",
+         "Uf":"SP",
+         "Numero":".",
+         "Complemento":"COESTER",
+         "Log":"Rua Rio Grande Do Sul, 1858",
+         "Bai":{  
+            "c":30731,
+            "d":"Centro"
+         },
+         "Cid":{  
+            "c":9136,
+            "d":"Fernandopoliss"
+         }
+      },
+      "ExibirTempoMedio":"NAO",
+      "LojaAberta":"NAO",
+      "TempoMedio":null,
+      "HorarioAtendimentoInicial":"18:00",
+      "HorarioAtendimentoFinal":"23:00",
+      "Ordem":21,
+      "PagtoOnline":"NAO",
+      "LojaDrive":"NAO"
+   },
+   {  
+      "Codigo":134,
+      "Nome":"Cmt - Campinas Taquaral",
+      "Sigla":"CMT",
+      "FotoFileName":"CMT1",
+      "TaxaEntrega":0.0,
+      "QuantidadeAdicionais":1,
+      "Foto":"https://comprepizza.bellacapri.com.br/Content/customize/bella_capri/img/lojas/CMT1.jpg",
+      "Endereco":{  
+         "Id":0,
+         "IdTipoEndereco":null,
+         "EnderecoPrincipal":null,
+         "Cep":"13075630",
+         "Uf":"SP",
+         "Numero":".",
+         "Complemento":null,
+         "Log":"Av. Dr Theodureto De Almeida Camargo, 109",
+         "Bai":{  
+            "c":16487,
+            "d":"Jardim Nossa Senhora Auxiliadora"
+         },
+         "Cid":{  
+            "c":9025,
+            "d":"Campinas"
+         }
+      },
+      "ExibirTempoMedio":"NAO",
+      "LojaAberta":"NAO",
+      "TempoMedio":null,
+      "HorarioAtendimentoInicial":"18:00",
+      "HorarioAtendimentoFinal":"23:00",
+      "Ordem":21,
+      "PagtoOnline":"NAO",
+      "LojaDrive":"SIM"
+   }
+]
